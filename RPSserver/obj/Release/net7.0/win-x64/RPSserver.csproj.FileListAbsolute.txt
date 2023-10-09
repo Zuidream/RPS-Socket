@@ -1,0 +1,15 @@
+C:\Users\zuidr\source\repos\RPS\RPSserver\bin\Release\net7.0\win-x64\RPSserver.exe
+C:\Users\zuidr\source\repos\RPS\RPSserver\bin\Release\net7.0\win-x64\RPSserver.deps.json
+C:\Users\zuidr\source\repos\RPS\RPSserver\bin\Release\net7.0\win-x64\RPSserver.runtimeconfig.json
+C:\Users\zuidr\source\repos\RPS\RPSserver\bin\Release\net7.0\win-x64\RPSserver.dll
+C:\Users\zuidr\source\repos\RPS\RPSserver\bin\Release\net7.0\win-x64\RPSserver.pdb
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\RPSserver.csproj.AssemblyReference.cache
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\RPSserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\RPSserver.AssemblyInfoInputs.cache
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\RPSserver.AssemblyInfo.cs
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\RPSserver.csproj.CoreCompileInputs.cache
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\RPSserver.dll
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\refint\RPSserver.dll
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\RPSserver.pdb
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\RPSserver.genruntimeconfig.cache
+C:\Users\zuidr\source\repos\RPS\RPSserver\obj\Release\net7.0\win-x64\ref\RPSserver.dll

@@ -1,0 +1,5 @@
+C:\Users\zuidr\Desktop\RPS\RPSserver\RPSserver.exe
+C:\Users\zuidr\Desktop\RPS\RPSserver\RPSserver.dll
+C:\Users\zuidr\Desktop\RPS\RPSserver\RPSserver.deps.json
+C:\Users\zuidr\Desktop\RPS\RPSserver\RPSserver.runtimeconfig.json
+C:\Users\zuidr\Desktop\RPS\RPSserver\RPSserver.pdb

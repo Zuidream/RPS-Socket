@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RPSserver</id>
+    <version>1.0.0</version>
+    <authors>RPSserver</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\zuidr\source\repos\RPS\RPSserver\bin\Debug\net7.0\RPSserver.runtimeconfig.json" target="lib\net7.0\RPSserver.runtimeconfig.json" />
+    <file src="C:\Users\zuidr\source\repos\RPS\RPSserver\bin\Debug\net7.0\RPSserver.dll" target="lib\net7.0\RPSserver.dll" />
+  </files>
+</package>
